@@ -8,6 +8,7 @@ fields:
     required: true
     min: '3'
   label: Title
+  default: Hello
 - name: a_number
   type: number
   description: ''
