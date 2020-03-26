@@ -12,7 +12,7 @@ fields:
 - name: a_number
   type: number
   description: ''
-  default: '2'
+  default: '0'
   required: true
   config:
     min: '0'
