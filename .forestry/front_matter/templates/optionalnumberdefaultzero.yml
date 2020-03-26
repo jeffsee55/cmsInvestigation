@@ -20,5 +20,5 @@ fields:
     max: '99'
     step: '1'
 pages:
+- content/posts/hello.md
 - content/posts/test1-optional-number.md
-- content/posts/ttile.md
