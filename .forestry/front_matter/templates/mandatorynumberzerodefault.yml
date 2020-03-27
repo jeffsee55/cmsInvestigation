@@ -8,10 +8,11 @@ fields:
     required: true
     min: '3'
   label: Title
+  default: Hello
 - name: a_number
   type: number
   description: ''
-  default: '2'
+  default: '0'
   required: true
   config:
     min: '0'
@@ -19,5 +20,3 @@ fields:
     step: '1'
     required: true
   label: A Number
-pages:
-- content/posts/test1-mandatory-number.md
