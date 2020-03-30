@@ -12,7 +12,7 @@ fields:
   type: number
   label: My Number
   description: ''
-  default: '2'
+  default: '8'
   required: true
   config:
     min: 
