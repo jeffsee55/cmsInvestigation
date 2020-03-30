@@ -8,11 +8,11 @@ fields:
     required: true
     min: '3'
   label: Title
-- name: my_number
+- name: next_number
   type: number
-  label: My Number
+  label: Next Number
   description: ''
-  default: '8'
+  default: 0
   required: true
   config:
     min: 
