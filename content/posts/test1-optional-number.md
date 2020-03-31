@@ -9,5 +9,3 @@ This is a test where the document was created outside of Forestry, committed to 
 The `a_number` front matter field was set to 0.
 
 The Forestry Front Matter was also set to use the optionalNumberDefaultZero Template for this test.
-
-sz
