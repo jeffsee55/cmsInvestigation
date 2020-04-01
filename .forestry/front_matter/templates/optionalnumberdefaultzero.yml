@@ -63,6 +63,16 @@ fields:
     min: ''
     max: 11
     step: 2
+- name: test7
+  type: number
+  label: Test7
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 3
+    step: 1
 pages:
 - content/posts/test-2-optional-number.md
 - content/posts/test-3-optional-number.md
