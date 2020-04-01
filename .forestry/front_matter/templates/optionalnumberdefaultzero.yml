@@ -12,7 +12,7 @@ fields:
   type: number
   label: Next Number
   description: ''
-  default: '2'
+  default: ''
   required: true
   config:
     min: 
