@@ -25,6 +25,7 @@ fields:
   template: optionalnumberdefaultzero
   label: OptionalFields
 pages:
+- content/posts/teeste.md
 - content/posts/test-2-mandatory-number.md
 - content/posts/test-3-mandatory-number.md
 - content/posts/test-4-mandatory-number.md
