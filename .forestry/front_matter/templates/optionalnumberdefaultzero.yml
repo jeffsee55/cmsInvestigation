@@ -38,6 +38,11 @@ fields:
     min: 
     max: 
     step: 
+- name: myfile
+  type: file
+  config:
+    maxSize: '30'
+  label: MyFile
 pages:
 - content/posts/test-2-optional-number.md
 - content/posts/test-3-optional-number.md
