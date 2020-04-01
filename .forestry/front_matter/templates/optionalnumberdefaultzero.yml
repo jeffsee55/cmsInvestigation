@@ -60,9 +60,9 @@ fields:
   default: 0
   required: true
   config:
-    min: 
-    max: 
-    step: 
+    min: 3
+    max: 5
+    step: 1
 pages:
 - content/posts/test-2-optional-number.md
 - content/posts/test-3-optional-number.md
