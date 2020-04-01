@@ -18,6 +18,16 @@ fields:
     min: 
     max: 
     step: 
+- name: hwlloe
+  type: number
+  label: Hwlloe
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - content/posts/test-2-optional-number.md
 - content/posts/test-3-optional-number.md
