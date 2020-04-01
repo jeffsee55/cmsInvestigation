@@ -61,7 +61,7 @@ fields:
   required: true
   config:
     min: ''
-    max: 10
+    max: 11
     step: 2
 pages:
 - content/posts/test-2-optional-number.md
