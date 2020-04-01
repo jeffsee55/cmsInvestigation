@@ -53,6 +53,16 @@ fields:
     min: '2'
     max: '5'
     step: '1'
+- name: test0default
+  type: number
+  label: Test0Default
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - content/posts/test-2-optional-number.md
 - content/posts/test-3-optional-number.md
