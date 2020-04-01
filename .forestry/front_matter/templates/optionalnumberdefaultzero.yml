@@ -8,71 +8,16 @@ fields:
     required: true
     min: '3'
   label: Titlee
-- name: next_number
+- name: mynumber5
   type: number
-  label: Next Number
-  description: ''
-  default: '2'
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
-- name: hwlloe
-  type: number
-  label: Hwlloe
+  label: MyNumber5
   description: ''
   default: 0
   required: true
   config:
     min: 
-    max: 
-    step: 
-- name: test3
-  type: number
-  label: test3
-  description: ''
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
-- name: myfile
-  type: file
-  config:
-    maxSize: '30'
-  label: MyFile
-- name: teste6
-  type: number
-  label: teste6
-  description: ''
-  default: 0
-  required: true
-  config:
-    min: '2'
-    max: '5'
-    step: '1'
-- name: test0default
-  type: number
-  label: Test0Default
-  description: ''
-  default: 0
-  required: true
-  config:
-    min: ''
-    max: 11
+    max: 10
     step: 2
-- name: test7
-  type: number
-  label: Test7
-  description: ''
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 3
-    step: 1
 pages:
 - content/posts/test-2-optional-number.md
 - content/posts/test-3-optional-number.md
