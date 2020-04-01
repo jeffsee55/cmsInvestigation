@@ -15,7 +15,6 @@ sections:
   create: all
   match: "**/*"
   templates:
-  - testbug
   - mandatorynumberzerodefault
   - optionalnumberdefaultzero
 upload_dir: static/uploads

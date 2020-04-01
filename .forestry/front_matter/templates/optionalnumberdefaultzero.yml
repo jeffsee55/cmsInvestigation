@@ -12,7 +12,7 @@ fields:
   type: number
   label: Next Number
   description: ''
-  default: ''
+  default: '2'
   required: true
   config:
     min: 
@@ -54,8 +54,6 @@ fields:
     max: '3'
     step: '1'
 pages:
-- content/posts/hello.md
-- content/posts/home.md
 - content/posts/test-2-optional-number.md
 - content/posts/test-3-optional-number.md
 - content/posts/test-4-optional-number.md
