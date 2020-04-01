@@ -15,8 +15,8 @@ fields:
   default: 0
   required: true
   config:
-    min: 
-    max: 10
+    min: -10
+    max: 0
     step: 2
 pages:
 - content/posts/test-2-optional-number.md
