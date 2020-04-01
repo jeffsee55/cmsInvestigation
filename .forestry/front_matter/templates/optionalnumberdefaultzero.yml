@@ -19,6 +19,7 @@ fields:
     max: 0
     step: 2
 pages:
+- content/posts/optionaltoml.md
 - content/posts/test-2-optional-number.md
 - content/posts/test-3-optional-number.md
 - content/posts/test-4-optional-number.md
