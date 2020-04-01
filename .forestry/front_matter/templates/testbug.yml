@@ -1,4 +1,15 @@
 ---
 label: TestBug
 hide_body: true
-fields: []
+fields:
+- name: my_number
+  type: number
+  label: My Number
+  description: ''
+  default: ''
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+    required: false
