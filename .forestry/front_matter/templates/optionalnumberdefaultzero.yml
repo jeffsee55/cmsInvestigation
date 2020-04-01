@@ -7,7 +7,7 @@ fields:
   config:
     required: true
     min: '3'
-  label: Title
+  label: Titlee
 - name: next_number
   type: number
   label: Next Number
