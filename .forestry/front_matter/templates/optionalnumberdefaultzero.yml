@@ -55,6 +55,7 @@ fields:
     step: '1'
 pages:
 - content/posts/hello.md
+- content/posts/home.md
 - content/posts/test-2-optional-number.md
 - content/posts/test-3-optional-number.md
 - content/posts/test-4-optional-number.md
