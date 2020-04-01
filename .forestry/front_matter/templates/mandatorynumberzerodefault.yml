@@ -19,11 +19,6 @@ fields:
     step: '1'
     required: true
   label: A Number
-- name: optionalfields
-  type: include
-  config: {}
-  template: optionalnumberdefaultzero
-  label: OptionalFields
 pages:
 - content/posts/mandatory-toml.md
 - content/posts/teeste.md
