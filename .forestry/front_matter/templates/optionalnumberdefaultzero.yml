@@ -43,6 +43,16 @@ fields:
   config:
     maxSize: '30'
   label: MyFile
+- name: teste6
+  type: number
+  label: teste6
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: '2'
+    max: '3'
+    step: '1'
 pages:
 - content/posts/test-2-optional-number.md
 - content/posts/test-3-optional-number.md
