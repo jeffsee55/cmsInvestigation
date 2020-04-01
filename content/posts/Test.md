@@ -1,5 +1,5 @@
 +++
 draft = true
-my_number = nil
+my_number = 3
 
 +++
