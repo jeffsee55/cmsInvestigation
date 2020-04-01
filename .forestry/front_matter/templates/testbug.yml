@@ -13,3 +13,5 @@ fields:
     max: 
     step: 
     required: false
+pages:
+- content/posts/Test.md
