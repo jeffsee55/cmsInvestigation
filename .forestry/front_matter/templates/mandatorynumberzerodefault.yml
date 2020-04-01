@@ -21,6 +21,7 @@ fields:
   label: A Number
 pages:
 - content/posts/mandatory-toml.md
+- content/posts/mandatorytoml2.md
 - content/posts/teeste.md
 - content/posts/test-2-mandatory-number.md
 - content/posts/test-3-mandatory-number.md
