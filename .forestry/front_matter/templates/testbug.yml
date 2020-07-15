@@ -35,5 +35,25 @@ fields:
 - name: bool
   type: boolean
   label: Bool
+- name: txtarea
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Txtarea
+- name: textar2
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html
+    min: 4
+    max: 400
+  label: Textar2
 pages:
 - content/posts/Test.md
