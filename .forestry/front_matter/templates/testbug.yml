@@ -19,6 +19,9 @@ fields:
     required: false
     color_format: RGB
   label: Primary
+  showOnly:
+    field: bool
+    value: true
 - name: hello
   type: tag_list
   default:
@@ -29,5 +32,8 @@ fields:
   config: {}
   template: optionalnumberdefaultzero
   label: Extra
+- name: bool
+  type: boolean
+  label: Bool
 pages:
 - content/posts/Test.md
