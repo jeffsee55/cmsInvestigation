@@ -24,5 +24,10 @@ fields:
   default:
   - meh
   label: Hello
+- name: extra
+  type: include
+  config: {}
+  template: optionalnumberdefaultzero
+  label: Extra
 pages:
 - content/posts/Test.md
