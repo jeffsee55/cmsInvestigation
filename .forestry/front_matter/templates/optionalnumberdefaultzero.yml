@@ -8,18 +8,54 @@ fields:
     required: true
     min: '3'
   label: Titlee
-- name: mynumber5
+- name: next_number
   type: number
-  label: MyNumber5
+  label: Next Number
+  description: ''
+  default: ''
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: hwlloe
+  type: number
+  label: Hwlloe
   description: ''
   default: 0
   required: true
   config:
-    min: -10
-    max: 0
-    step: 2
+    min: 
+    max: 
+    step: 
+- name: test3
+  type: number
+  label: test3
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: myfile
+  type: file
+  config:
+    maxSize: '30'
+  label: MyFile
+- name: teste6
+  type: number
+  label: teste6
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: '2'
+    max: '3'
+    step: '1'
 pages:
-- content/posts/optionaltoml.md
+- content/posts/hello.md
+- content/posts/home.md
 - content/posts/test-2-optional-number.md
 - content/posts/test-3-optional-number.md
 - content/posts/test-4-optional-number.md
