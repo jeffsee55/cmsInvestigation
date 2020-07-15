@@ -51,7 +51,7 @@ fields:
     required: false
     wysiwyg: true
     schema:
-      format: html
+      format: html-blocks
     min: 4
     max: 400
   label: Textar2
